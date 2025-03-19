@@ -6,6 +6,6 @@
 
 - In this reporsitory we have provide a sample dataset (github_data_upload.csv) to annotate *AutScore.r* using the script: *AutScore.r_implementation.R*. 
   
-- Soon we will publish a 2nd version of *AutScore.r* using which one can QC and annotate all the required annotations to .vcf file and compute such prediction scores based on AI models to prioritize ASD candidate variants. 
+- Soon we will publish a 2nd version of *AutScore.r* using which one can QC and annotate all the required annotations and compute such prediction scores based on AI models to prioritize ASD candidate variants. In this version one can implement *AutScore.r* to their .vcf file with few lines of codes.  
 
 Please refer to our published paper on AutScore to learn more about specific strategies and modules used. For any further query, please contact: apurba.shil316@gmail.com or idanmen@bgu.ac.il (https://www.idanme.com/).
