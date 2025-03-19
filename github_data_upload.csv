@@ -1,0 +1,178 @@
+CHROM,REF,ALT,POS-hg38,Conseq_Revised,Gene_Type,Clinical_Score,GDA_Score,I,P,D,C,SFARI,H,AutScore,AutoCasC
+chr2,C,[T],165344558,Stop-Gain,SFARI Score-1,1,0.7,6,6,2,3,1,3,25,12.26
+chr2,C,[T],165344558,Stop-Gain,SFARI Score-1,1,0.7,6,6,2,3,1,3,25,12.26
+chr12,G,[A],112489084,Missense,SFARI Score-1,1,1,6,6,2,3,1,0,23,11.06
+chr6,C,[T],33440913,Stop-Gain,SFARI Score-1,1,0.7,6,6,2,3,1,0,22,12.93
+chr9,C,[T],137728496,Stop-Gain,SFARI Score-1,1,1,6,6,2,0,1,0,20,12.76
+chr22,C,[CG],50722274,Frameshift,SFARI Score-1,1,1,6,6,2,0,1,0,20,12.95
+chr14,G,[A],21402010,Stop-Gain,SFARI Score-1,1,0.8,6,6,2,0,1,0,20,12.1
+4,A,T,139340947,Stop-Gain,SFARI Score-1,1,0.63,6,6,2,0,1,0,19,11.66
+chr2,G,[A],165331415,Stop-Gain,SFARI Score-1,1,0.7,6,6,2,0,1,0,19,12.72
+chr1,GATCTC,[G],151405651,Frameshift,SFARI Score-1,1,0.63,6,6,2,0,1,0,19,13.18
+chr9,G,[A],127675910,Missense,SFARI Score-1,1,0.71,3,6,2,3,1,0,19,11.58
+chr17,G,[GC],17794244,Frameshift,SFARI Score-1,1,1,6,6,1,0,1,0,19,12.47
+chr16,CCTTT,[C],89283314,Frameshift,SFARI Score-1,1,0.8,6,6,0,0,1,0,18,12.63
+chr1,T,[A],202750780,splice_acceptor_variant,SFARI Score-1,1,0.4,6,6,2,0,1,0,18,9.49
+chr11,T,[TG],70486935,Frameshift,SFARI Score-1,1,0.4,6,6,2,0,1,0,18,10.33
+2,T,G,166047623,splice_donor_region_variant,SFARI Score-1,1,0.9,3,6,2,0,1,0,17,13.49
+17,TAACTT,-,31343098,nonframeshift deletion,SFARI Score-1,1,1,3,3,2,3,1,0,17,9.98
+chr3,C,[T],10375477,Missense,SFARI Score-2,1,0.1,6,6,2,1,2,0,17,9.62
+chr19,TC,[T],42292382,Frameshift,SFARI Score-1,1,0.6,6,6,0,0,1,0,17,12.5
+chrX,A,[AC],47575266,Frameshift,SFARI Score-1,1,0.7,6,6,0,0,1,0,17,12.97
+chrX,GT,[G],119852833,Frameshift,SFARI Score-1,1,0.7,6,6,0,0,1,0,17,12.31
+chr6,G,[GC],170285585,Frameshift,SFARI Score-2,1,0.41,6,6,2,0,2,0,17,11.74
+6,G,A,87256299,Stop-Gain,SFARI Score-1,1,0.4,6,6,0,0,1,0,16,10.73
+chr2,A,[G],165314008,Missense,SFARI Score-1,1,0.7,3,5,2,1,1,0,16,10.84
+chr2,G,[GAGTAA],54667620,Frameshift,SFARI Score-2,1,0.01,6,6,2,0,2,0,16,11.11
+chr5,A,[G],45396523,Missense,SFARI Score-1,1,0.7,3,6,2,0,1,0,16,10.61
+chr9,G,[A],127660051,Missense,SFARI Score-1,1,0.71,3,6,2,0,1,0,16,11.46
+chr1,C,[T],2229292,Missense,SFARI Score-1,1,0.74,3,6,2,0,1,0,16,8.84
+chr6,TA,[T],87255714,Frameshift,SFARI Score-1,1,0.4,6,6,0,0,1,0,16,11.12
+chr5,AG,[A],111484207,Frameshift,SFARI Score-2,1,0.03,6,6,2,0,2,0,16,11.09
+11,G,A,116837134,Stop-Gain,Non-SFARI Genes,0,0.02,6,6,0,3,0,0,15,8.3
+chr7,G,[T],76303866,Splice,Non-SFARI Genes,0,0.3,6,6,2,0,0,0,15,7.03
+chr17,G,[A],78476658,Stop-Gain,SFARI Score-2,1,0,6,6,1,0,2,0,15,5.64
+chr17,C,[A],1676206,Splice,SFARI Score-3,1,0.1,6,6,2,0,3,0,15,11.45
+chrX,G,[A],155524585,Stop-Gain,SFARI Score-2,1,0.46,6,6,0,0,2,0,15,6.66
+chr11,CAG,[C],687933,Frameshift,SFARI Score-1,1,0.7,6,6,-2,0,1,0,15,9.3
+chr3,G,[T],58141915,Stop-Gain,Non-SFARI Genes,0,0.31,6,6,2,0,0,0,15,8.42
+7,C,T,80656639,Stop-Gain,Non-SFARI Genes,0,0.01,6,6,2,0,0,0,14,7.44
+chr17,G,[A],2387131,Stop-Gain,SFARI Score-2,0,0.01,6,6,0,0,2,0,14,10
+chr1,G,[A],153811836,Stop-Gain,Non-SFARI Genes,1,0.1,6,6,2,0,0,0,14,11.99
+chr17,T,[A],59663985,Stop-Gain,Non-SFARI Genes,1,0.11,6,6,2,0,0,0,14,11.59
+chr16,T,[C],67626659,Missense,SFARI Score-1,1,0.7,3,4,2,0,1,0,14,9.91
+chr6,A,[G],135447018,Missense,SFARI Score-1,0,0.41,3,5,2,0,1,0,14,9.81
+chrX,TGA,[T],111216468,Frameshift,Non-SFARI Genes,1,0.7,6,6,0,0,0,0,14,11.48
+chr7,G,[A],1474769,Stop-Gain,SFARI Score-1,0,0.3,6,6,-2,0,1,0,14,7.05
+chr10,C,[T],16836383,splice_acceptor_variant,Non-SFARI Genes,0,0.01,6,6,2,0,0,0,14,9.65
+15,TT,-,40407806,Frameshift,Non-SFARI Genes,0,0.1,6,6,2,0,0,0,14,5.74
+15,TT,-,40407806,Frameshift,Non-SFARI Genes,0,0.1,6,6,2,0,0,0,14,5.74
+chr2,C,[T],182952467,Missense,SFARI Score-1,1,0.3,3,6,-2,0,1,3,14,8.28
+chr2,C,[T],182952467,Missense,SFARI Score-1,1,0.3,3,6,-2,0,1,3,14,8.28
+chr2,A,"[G, C]",208124313,Stop-Gain,Non-SFARI Genes,0,0.03,6,6,2,0,0,0,14,8.62
+chr2,A,"[G, C]",208124313,Stop-Gain,Non-SFARI Genes,0,0.03,6,6,2,0,0,0,14,8.62
+chr7,C,[T],80656639,Stop-Gain,Non-SFARI Genes,0,0.01,6,6,2,0,0,0,14,7.44
+chr2,A,"[G, C]",208124313,Stop-Gain,Non-SFARI Genes,0,0.03,6,6,2,0,0,0,14,8.62
+15,TT,-,40407806,Frameshift,Non-SFARI Genes,0,0.1,6,6,2,0,0,0,14,5.74
+chr16,C,[T],30961472,Missense,SFARI Score-1,1,0.65,3,4,2,0,1,0,14,8.8
+2,-,T,178563747,Frameshift,SFARI Score-2,1,0.1,6,6,-1,0,2,0,13,12.21
+chr6,G,[A],33440823,Missense,SFARI Score-1,1,0.7,0,2,-2,0,1,8,13,9.84
+chr6,G,[A],33440823,Missense,SFARI Score-1,1,0.7,0,2,-2,0,1,8,13,9.84
+chr6,G,[A],33440823,Missense,SFARI Score-1,1,0.7,0,2,-2,0,1,8,13,9.84
+chr17,G,[A],10462888,Stop-Gain,SFARI Score-2,1,0,3,6,2,0,2,0,13,5.78
+chr3,A,[G],113789793,Missense,Non-SFARI Genes,1,0.1,6,5,2,0,0,0,13,9.65
+chr15,A,[G],87940694,Missense,SFARI Score-2,0,0.44,3,5,2,0,2,0,13,8.38
+chr1,A,[G],63407114,Missense,SFARI Score-1,0,0.1,3,5,2,0,1,0,13,6.91
+chr15,TAAGA,[T],22866845,stop_retained_variant&3_prime_UTR_variant,SFARI Score-2,0,0.03,3,6,2,0,2,0,13,NA
+chr15,TAAGA,[T],22866845,stop_retained_variant&3_prime_UTR_variant,SFARI Score-2,0,0.03,3,6,2,0,2,0,13,NA
+chr15,TAAGA,[T],22866845,stop_retained_variant&3_prime_UTR_variant,SFARI Score-2,0,0.03,3,6,2,0,2,0,13,NA
+chr5,T,[G],173950040,Missense,SFARI Score-2,1,0.01,3,6,2,0,2,0,13,6.67
+chr6,G,[A],33440730,Missense,SFARI Score-1,1,0.7,0,6,2,0,1,0,13,10.64
+chr9,C,[T],95915784,Missense,Non-SFARI Genes,0,0.11,3,5,2,0,0,3,13,5.61
+chr9,C,[T],95915784,Missense,Non-SFARI Genes,0,0.11,3,5,2,0,0,3,13,5.61
+chr15,TAAGA,[T],22866845,stop_retained_variant&3_prime_UTR_variant,SFARI Score-2,0,0.03,3,6,2,0,2,0,13,NA
+chr15,TAAGA,[T],22866845,stop_retained_variant&3_prime_UTR_variant,SFARI Score-2,0,0.03,3,6,2,0,2,0,13,NA
+chr12,TGG,"[CGG, T]",70596274,Frameshift,SFARI Score-2,0,0,6,6,-1,0,2,0,13,9
+chr12,TGG,"[CGG, T]",70596274,Frameshift,SFARI Score-2,0,0,6,6,-1,0,2,0,13,9
+chr7,G,[A],120275647,Missense,SFARI Score-2,1,0.31,3,5,2,0,2,0,13,9.18
+chr15,TAAGA,[T],22866845,stop_retained_variant&3_prime_UTR_variant,SFARI Score-2,0,0.03,3,6,2,0,2,0,13,NA
+chr15,TAAGA,[T],22866845,stop_retained_variant&3_prime_UTR_variant,SFARI Score-2,0,0.03,3,6,2,0,2,0,13,NA
+chr11,G,[A],113416944,Missense,SFARI Score-2,0,0.4,3,5,2,0,2,0,13,11.11
+chr12,TGG,"[CGG, T]",70596274,frameshift_variant - missense_variant,SFARI Score-2,0,0,6,6,-1,0,2,0,13,9
+20,C,-,19975221,Frameshift,Non-SFARI Genes,0,0.72,6,6,-2,0,0,0,12,6.55
+1,T,C,11213404,Missense,SFARI Score-1,0,0.74,3,2,2,0,1,0,12,10.65
+2,ATT,-,50053548,nonframeshift deletion,SFARI Score-1,1,0.7,3,3,1,0,1,0,12,9.76
+2,T,-,233693163,Frameshift,Non-SFARI Genes,0,0.04,6,6,0,0,0,0,12,8
+chr14,C,[T],23424849,Missense,Non-SFARI Genes,0,0.1,6,4,2,0,0,0,12,6.21
+chrX,GGAAGTAA,[G],19358940,Frameshift,Non-SFARI Genes,1,0.11,6,6,0,0,0,0,12,13.56
+chr18,G,[C],44701813,Missense,SFARI Score-1,0,0.77,0,4,2,0,1,0,12,8.42
+chr11,TC,[T],70807080,Frameshift,SFARI Score-1,1,0.4,0,6,2,0,1,0,12,10.33
+16,G,C,53208279, intron_variant,SFARI Score-3,0,0,3,6,2,0,3,0,12,5.04
+14,CTC,-,105352458,nonframeshift deletion,SFARI Score-1,1,0.41,3,3,2,0,1,0,12,6.91
+chr15,G,[A],90088703,Missense,Non-SFARI Genes,0,0.44,3,5,0,3,0,0,12,8.57
+chrX,C,[CA],118676000,Frameshift,Non-SFARI Genes,0,0.01,6,6,0,0,0,0,12,6.78
+chr1,C,[T],111786990,Missense,SFARI Score-2,1,0.03,3,5,2,0,2,0,12,10.07
+chr9,G,[A],131045586,Missense,Non-SFARI Genes,0,0.7,3,5,2,0,0,0,12,8.42
+chr17,C,[T],2667085,Missense,Non-SFARI Genes,1,0.33,3,6,2,0,0,0,12,11.34
+chr8,G,[T],99641916,Missense,SFARI Score-1,0,0.8,0,4,2,0,1,0,12,8.67
+chr17,G,[T],29502689,Missense,SFARI Score-1,1,0.3,0,6,2,0,1,0,12,8.42
+chrX,G,[T],123626018,Missense,Non-SFARI Genes,1,0.14,6,6,0,0,0,0,12,9.7
+chr6,C,[T],43129828,Missense,SFARI Score-1,0,0.3,3,4,1,0,1,0,12,7.74
+chr13,A,[G],20082916,Missense,SFARI Score-2,0,0.3,3,5,1,0,2,0,12,8.73
+chr6,T,[G],32196423,splice_acceptor_variant,Non-SFARI Genes,0,0.5,3,6,2,0,0,0,12,6.59
+chrX,G,[T],7325494,Missense,Non-SFARI Genes,1,0.46,6,5,0,0,0,0,12,6.61
+19,G,C,49659836,splice_region_variant,Non-SFARI Genes,0,0.1,3,6,2,0,0,0,11,9.66
+12,A,T,88172595,splice_acceptor_variant,Non-SFARI Genes,0,0.11,6,6,-1,0,0,0,11,8.23
+5,-,GC,173235021,Frameshift,Non-SFARI Genes,0,0.3,6,6,-2,0,0,0,11,8.95
+5,-,GC,173235021,Frameshift,Non-SFARI Genes,0,0.3,6,6,-2,0,0,0,11,8.95
+12,A,-,6936745,Frameshift,Non-SFARI Genes,0,0.41,6,6,-2,0,0,0,11,13.08
+chr12,G,[A],120660222,Missense,Non-SFARI Genes,0,0.2,3,6,2,0,0,0,11,5.68
+chr8,C,[T],35568232,Missense,SFARI Score-3,0,0,3,5,2,0,3,0,11,7.76
+chr1,T,[G],10232345,Missense,Non-SFARI Genes,0,0.02,3,6,2,0,0,0,11,9.99
+chr19,G,[A],15257134,Missense,SFARI Score-2,0,0.33,3,3,2,0,2,0,11,10.15
+chr20,C,[A],36190720,Missense,Non-SFARI Genes,0,0.4,3,6,1,0,0,0,11,8.57
+chr2,C,[G],207123787,Missense,SFARI Score-3,0,0.31,3,5,1,0,3,0,11,6.82
+chr1,A,[G],151442203,Splice,SFARI Score-1,0,0.63,0,4,2,0,1,0,11,13.02
+chrX,C,[G],67721909,Missense,SFARI Score-2,0,0.35,0,5,0,3,2,0,11,6.18
+14,-,GCCGCCGCCGCC,53152762,nonframeshift insertion,Non-SFARI Genes,0,0.3,3,3,1,0,0,3,11,6.82
+14,-,GCCGCCGCCGCC,53152762,nonframeshift insertion,Non-SFARI Genes,0,0.3,3,3,1,0,0,3,11,6.82
+chr19,A,"[G, AT]",43075490,Frameshift,Non-SFARI Genes,0,0.01,0,6,2,0,0,3,11,8.44
+chr19,A,"[G, AT]",43075490,Frameshift,Non-SFARI Genes,0,0.01,0,6,2,0,0,3,11,8.44
+chrX,A,[G],25013219,Missense,SFARI Score-1,0,0.78,0,2,0,0,1,3,11,8.86
+chrX,A,[G],25013219,Missense,SFARI Score-1,0,0.78,0,2,0,0,1,3,11,8.86
+chr1,T,[TAA],244055368,frameshift_variant&stop_retained_variant,Non-SFARI Genes,0,0.4,3,6,1,0,0,0,11,12.98
+chr15,G,[A],98939285,Missense,Non-SFARI Genes,0,0.42,3,5,2,0,0,0,11,8.62
+chr3,A,[C],77577555,Missense,SFARI Score-2,0,0.31,3,3,2,0,2,0,11,8.4
+20,CCTT,C,54172927,nonframeshift deletion,Non-SFARI Genes,0,0.1,3,3,2,3,0,0,11,3.99
+chr4,C,[A],82428373,Stop-Gain,Non-SFARI Genes,0,0.01,6,6,-1,0,0,0,11,6.45
+chr2,G,[A],1680267,Missense,SFARI Score-2,0,0.01,3,4,2,0,2,0,11,5.33
+chr1,C,[T],237617331,Missense,Non-SFARI Genes,0,0.32,3,5,2,0,0,0,11,9.46
+chr2,C,[T],182952467,Missense,SFARI Score-1,1,0.3,3,6,-2,0,1,0,11,8.28
+chr5,AG,[A],150199353,Frameshift,Non-SFARI Genes,0,0.01,0,6,2,0,0,3,11,10.07
+chr5,AG,[A],150199353,Frameshift,Non-SFARI Genes,0,0.01,0,6,2,0,0,3,11,10.07
+chr1,C,[T],19119624,Missense,Non-SFARI Genes,0,0.02,3,5,2,1,0,0,11,9.61
+chr1,C,[T],237617331,Missense,Non-SFARI Genes,0,0.32,3,5,2,0,0,0,11,9.46
+chr15,A,"[C, T]",93024634,Missense,SFARI Score-1,0,0.6,3,5,-2,0,1,0,11,7.31
+chr15,A,"[C, T]",93024634,Missense,SFARI Score-1,0,0.6,3,5,-2,0,1,0,11,7.31
+chr15,A,"[C, T]",93024634,Missense,SFARI Score-1,0,0.6,3,5,-2,0,1,0,11,7.31
+chr1,G,[C],201812490,Missense,Non-SFARI Genes,0,0.31,3,5,2,0,0,0,11,8.25
+chrX,G,[C],53254558,Missense,SFARI Score-1,0,0.72,0,6,0,0,1,0,11,8.97
+chr10,C,[T],99834419,Missense,Non-SFARI Genes,0,0.5,3,5,2,0,0,0,11,6.63
+chr22,A,[G],50456317,Missense,SFARI Score-2,0,0.1,3,4,2,0,2,0,11,7.52
+22,TT,-,49904489,Frameshift,Non-SFARI Genes,0,0.1,6,6,-2,0,0,0,10,7.76
+22,C,G,26377670,.,Non-SFARI Genes,0,0.03,3,6,1,0,0,0,10,9.96
+chrX,G,[A],154466202,Missense,SFARI Score-2,1,0.01,0,5,0,0,2,3,10,5.22
+chrX,G,[A],154466202,Missense,SFARI Score-2,1,0.01,0,5,0,0,2,3,10,5.22
+chr2,G,[A],219451798,Missense,Non-SFARI Genes,0,0.1,3,5,2,0,0,0,10,7.28
+chr17,T,[G],2065136,Missense,SFARI Score-2,0,0.1,3,4,1,0,2,0,10,8.15
+chr22,C,[T],20114761,Missense,Non-SFARI Genes,0,0.31,3,4,2,0,0,0,10,7.71
+chrX,T,[C],7259715,Missense,Non-SFARI Genes,0,0.46,6,3,0,0,0,0,10,6.17
+chr11,G,[T],27093181,Missense,Non-SFARI Genes,1,0.01,3,5,2,0,0,0,10,6.09
+chr9,C,[G],114072925,Missense,Non-SFARI Genes,0,0.02,3,5,2,0,0,0,10,5.7
+chr15,T,[A],86397403,Missense,Non-SFARI Genes,0,0.01,3,5,2,0,0,0,10,3.8
+chr1,C,[T],1051531,Missense,Non-SFARI Genes,0,0.1,3,5,2,0,0,0,10,8.48
+chr3,G,[A],49129699,Missense,Non-SFARI Genes,0,0.11,3,5,2,0,0,0,10,7.76
+chr3,G,[A],52138198,Missense,Non-SFARI Genes,0,0.3,3,4,2,0,0,0,10,6.59
+chr17,C,[T],75332788,Missense,Non-SFARI Genes,0,0.32,3,1,2,0,0,3,10,7.69
+chr17,C,[T],75332788,Missense,Non-SFARI Genes,0,0.32,3,1,2,0,0,3,10,7.69
+chr10,T,[G],89717724,Splice,Non-SFARI Genes,0,0.21,3,6,-2,0,0,3,10,7.75
+chr10,T,[G],89717724,Splice,Non-SFARI Genes,0,0.21,3,6,-2,0,0,3,10,7.75
+chr20,G,[C],2579996,Missense,Non-SFARI Genes,0,0.01,0,5,2,0,0,3,10,5.57
+chr20,G,[C],2579996,Missense,Non-SFARI Genes,0,0.01,0,5,2,0,0,3,10,5.57
+chr4,C,[T],81174802,Missense,Non-SFARI Genes,0,0.01,3,5,2,0,0,0,10,7.37
+chr6,C,[T],38971663,stop_gained&splice_region_variant,Non-SFARI Genes,0,0.01,6,6,-2,0,0,0,10,6.47
+chr19,G,[A],46756885,Missense,Non-SFARI Genes,0,0.4,3,5,1,0,0,0,10,9.24
+chr16,A,[AC],3583328,Frameshift,Non-SFARI Genes,0,0.1,6,6,-2,0,0,0,10,8.74
+chr12,A,[G],47713292,Missense,Non-SFARI Genes,0,0.01,3,5,2,0,0,0,10,6.54
+chr5,T,[C],140807876,Missense,SFARI Score-2,1,0,3,5,0,0,2,0,10,4.41
+chr2,T,[A],215333431,Missense,Non-SFARI Genes,1,0.3,3,5,1,0,0,0,10,7.96
+chr17,C,[A],63917497,Missense,Non-SFARI Genes,0,0.1,3,5,2,0,0,0,10,6.51
+chr10,T,[C],86659381,Missense,Non-SFARI Genes,0,0.01,3,5,2,0,0,0,10,6.37
+7,-,GATG,2513251,Frameshift,Non-SFARI Genes,0,0.1,6,6,-2,0,0,0,10,9.49
+7,-,GATG,2513251,Frameshift,Non-SFARI Genes,0,0.1,6,6,-2,0,0,0,10,9.49
+7,-,GATG,2513251,Frameshift,Non-SFARI Genes,0,0.1,6,6,-2,0,0,0,10,9.49
+chr6,T,[A],136872228,Missense,SFARI Score-2,0,0.11,3,3,2,0,2,0,10,9.07
+chr4,A,[G],150900177,Missense,SFARI Score-2,0,0,3,3,2,0,2,0,10,5.62
+chr19,C,[A],50280127,Missense,Non-SFARI Genes,0,0.1,3,5,2,0,0,0,10,6.74
+chr7,CGT,[C],128030566,Frameshift,SFARI Score-2,0,0.02,0,6,2,0,2,0,10,10.02
+7,-,GATG,2513251,Frameshift,Non-SFARI Genes,0,0.1,6,6,-2,0,0,0,10,9.49
